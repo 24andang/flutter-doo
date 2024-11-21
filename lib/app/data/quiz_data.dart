@@ -60,8 +60,8 @@ class QuizData extends GetxController {
     },
     {
       "question": "Buah yang rasanya asam adalah?",
-      "answer": ["Jeruk", "Apel"],
-      "isRight": 0
+      "answer": ["Apel", "Jeruk"],
+      "isRight": 1
     },
     {
       "question": "Hewan yang memiliki ekor panjang adalah?",
@@ -85,18 +85,18 @@ class QuizData extends GetxController {
     },
     {
       "question": "Hewan yang suka tinggal di pohon adalah?",
-      "answer": ["Monyet", "Kuda"],
-      "isRight": 0
+      "answer": ["Kuda", "Monyet"],
+      "isRight": 1
     },
     {
       "question": "Buah yang memiliki biji kecil adalah?",
-      "answer": ["Anggur", "Pisang"],
-      "isRight": 0
+      "answer": ["Alpukat", "Anggur"],
+      "isRight": 1
     },
     {
       "question": "Benda yang bisa mengapung di air adalah?",
-      "answer": ["Kayu", "Batu"],
-      "isRight": 0
+      "answer": ["Batu", "Busa"],
+      "isRight": 1
     },
     {
       "question": "Hewan yang memiliki cakar adalah?",
@@ -104,9 +104,9 @@ class QuizData extends GetxController {
       "isRight": 0
     },
     {
-      "question": "Bunga yang tumbuh di air adalah?",
-      "answer": ["Teratai", "Mawar"],
-      "isRight": 0
+      "question": "Bunga yang tumbuh di atas air adalah?",
+      "answer": ["Melati", "Teratai"],
+      "isRight": 1
     },
     {
       "question": "Kendaraan yang berjalan di rel adalah?",
@@ -150,13 +150,13 @@ class QuizData extends GetxController {
     },
     {
       "question": "Benda yang digunakan untuk melihat waktu adalah?",
-      "answer": ["Jam", "Payung"],
-      "isRight": 0
+      "answer": ["Payung", "Jam"],
+      "isRight": 1
     },
     {
       "question": "Hewan yang hidup di sawah adalah?",
-      "answer": ["Katak", "Kuda"],
-      "isRight": 0
+      "answer": ["Zebra", "Katak"],
+      "isRight": 1
     },
     {
       "question": "Buah yang berbentuk bulat adalah?",
@@ -175,8 +175,8 @@ class QuizData extends GetxController {
     },
     {
       "question": "Buah yang rasanya manis adalah?",
-      "answer": ["Mangga", "Lemon"],
-      "isRight": 0
+      "answer": ["Mengkudu", "Semangka"],
+      "isRight": 1
     },
   ].obs;
 

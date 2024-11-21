@@ -30,13 +30,13 @@ environment:
 dependencies:
   audioplayers: ^6.1.0
   cupertino_icons: ^1.0.8
+  flutter_launcher_icons: ^0.14.1
   flutter:
     sdk: flutter
   get: ^4.6.6
   http: ^1.2.2
 
 dev_dependencies:
-  flutter_launcher_icons: ^0.14.1
   flutter_lints: ^4.0.0
   flutter_test:
     sdk: flutter
@@ -44,8 +44,11 @@ dev_dependencies:
 flutter_launcher_icons:
   android: "launcher_icon"
   ios: true
-  image_path: "assets/icons/doo.png"
-  min_sdk_android: 16
+  remove_alpha_ios: true
+  image_path: "assets/icons/holiday.png"
+  min_sdk_android: 21
+  adaptive_icon_background: "#ffffff"
+  adaptive_icon_foreground: "assets/icons/holiday.png"
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
