@@ -86,10 +86,10 @@ class Rewrite extends StatelessWidget {
           Get.defaultDialog(
             titlePadding: EdgeInsets.all(20),
             contentPadding: EdgeInsets.symmetric(horizontal: 20),
-            title: "Mention three things,",
+            title: "Typing,",
             titleStyle: DooText.title(size: 20),
             content: Text(
-              "Anak belajar typing.",
+              "Anak belajar mengetik dengan keyboard.",
               style: DooText.content(),
             ),
           );

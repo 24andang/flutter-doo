@@ -157,7 +157,7 @@ class Math extends StatelessWidget {
           Get.defaultDialog(
             titlePadding: EdgeInsets.all(20),
             contentPadding: EdgeInsets.symmetric(horizontal: 20),
-            title: "Counting,",
+            title: "Finger Math,",
             titleStyle: DooText.title(size: 20),
             content: Text(
               "Kerap kali mengajarkan penjumlahan dan pengurangan dengan jemarinya yang mungil. Dipastikan tidak ada hasil minus.",

@@ -105,7 +105,7 @@ class Quiz extends StatelessWidget {
           Get.defaultDialog(
             titlePadding: EdgeInsets.all(20),
             contentPadding: EdgeInsets.symmetric(horizontal: 20),
-            title: "Counting,",
+            title: "Ask,",
             titleStyle: DooText.title(size: 20),
             content: Text(
               "Melatih pemahaman anak terhadap sekitar atau pengetahuan umum.",
